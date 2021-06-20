@@ -1,0 +1,1 @@
+!function _() { var foo = 'bar'; console.log(`!${_}()`); }()
